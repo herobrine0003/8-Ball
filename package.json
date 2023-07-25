@@ -1,6 +1,6 @@
 {
   "name": "8-Ball",
-  "version": "1.01",
+  "version": "1.02.1",
   "description": "8-Ball with express.js",
   "main": "app.js",
   "scripts": {
