@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "JohnnyJenkins10",
+  "author": "102xvision",
   "dependencies": {
     "express": "^4.18.2"
   }
