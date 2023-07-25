@@ -1,0 +1,24 @@
+{
+    "name": "Magic 8-Ball",
+    "short_name": "8-Ball",
+    "icons": [
+        {
+            "src": "/imgs/android-chrome-192x192.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "landscape",
+    "lang": "en",
+    "description": "The magic 8-ball that can answer any question.",
+    "dir": "ltr",
+    "serviceworker": {
+        "src": "/src/service-worker.js",
+        "scope": "/",
+        "update_via_cache": "none"
+    }
+}

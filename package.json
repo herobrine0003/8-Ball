@@ -1,0 +1,13 @@
+{
+  "name": "8-Ball",
+  "version": "1.01",
+  "description": "8-Ball with express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "JohnnyJenkins10",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
